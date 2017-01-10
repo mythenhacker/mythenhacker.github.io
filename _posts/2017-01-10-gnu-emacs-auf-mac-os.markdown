@@ -5,7 +5,7 @@ permalink: "/gnu-emacs-mac-os/"
 date:   2017-01-10 00:58:49 +0100
 categories: Emacs
 ---
-Wer von Linux auf Mac OS umstellt, muss sich bei GNU Emacs zunächst einige Sachen konfigurieren, ehe er wirklich arbeiten kann (andere Dinge sind einfach eine Frage der Umgewöhnung).
+Wer von Linux auf Mac OS umsteigt, muss sich bei GNU Emacs zunächst einige Sachen konfigurieren, ehe er wirklich arbeiten kann (andere Dinge sind einfach eine Frage der Umgewöhnung).
 
 ## eshell findet Befehle nicht, die das Mac Terminal findet
 
@@ -13,7 +13,7 @@ Wer zum ersten Mal `M-x eshell` aufruft und versucht, mit gängigen Terminal-Bef
 
 ### MELPA installieren
 
-Emacs verfügt seit Version 24 über einen eigenen Package Manager. Für das weitere Vorgehen fügen wir das "MELPA (Milkypostman’s Emacs Lisp Package Archive)" zu unserer Konfiguration (~/.emacs oder ~/.emacs.d/init.el)hinzu:
+Emacs verfügt seit Version 24 über einen eigenen Package Manager. Für das weitere Vorgehen fügen wir das "MELPA (Milkypostman’s Emacs Lisp Package Archive)" zu unserer Konfiguration (~/.emacs oder ~/.emacs.d/init.el) hinzu:
 
 {% highlight elisp %}
 ;; Emacs package manager
