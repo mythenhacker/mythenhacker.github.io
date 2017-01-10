@@ -64,7 +64,7 @@ An den Zeilenanfang bzw. an das Zeilenende springt man wie gewohnt per `C-a` und
 Das Tilde-Zeichen `~` als Wildcard für das User-Verzeichnis lässt sich out-of-the-box gar nicht eingeben (vielleicht über einen ASCII-Tastencode, der mir im Moment unbekannt ist). Abhilfe schafft folgender Eintrag in die Konfiguration:
 
 {% highlight elisp %}
-;; Tilde per Right-Alt + n
+;; Tilde per Right-Alt+n
 (setq-default ns-right-alternate-modifier nil)
 {% endhighlight %}
 
@@ -107,6 +107,6 @@ Die Emacs Zwischenablage lässt sich in Mac-Anwendungen ebenfalls per `Command-v
 ;; brauchbarer Zeilenumbruch
 (global-visual-line-mode t)
 
-;; Tilde per Right-Alt + n
+;; Tilde per Right-Alt+n
 (setq-default ns-right-alternate-modifier nil)
 {% endhighlight %}
