@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gaia
-permalink: gaia
+permalink: /wiki/gaia/
 ---
 
 Gaia ist die Allmutter, die Mutter Erde und Gattin des Uranus.
