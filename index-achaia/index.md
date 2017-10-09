@@ -5,4 +5,4 @@ permalink: /index-achaia/
 ---
 [G](#G)
 
-## <a name="G">[Gaia](gaia)</a>
+## <a name="G">[Gaia](../gaia)</a>
