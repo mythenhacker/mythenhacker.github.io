@@ -2,6 +2,7 @@
 layout: page
 title: Gaia
 permalink: /gaia/
+exclude: true
 ---
 
 Gaia
