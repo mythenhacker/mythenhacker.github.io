@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Interview mit Judith Madera auf Literatopia
-permalink: /interview-literatopia-2015/
+permalink: /interview-literatopia-2016/
 date:   2016-04-05 22:36
 categories: Interviews
 ---
